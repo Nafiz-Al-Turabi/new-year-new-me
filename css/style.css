@@ -31,7 +31,8 @@ header {
     color: #fff;
     line-height: 26px;
 }
-.banner-btn{
+
+.banner-btn {
     color: #005FAC;
     font-size: 20px;
     font-weight: 600px;
@@ -43,30 +44,57 @@ header {
     border: none;
 
 }
+
 /* non-success section styles */
-.non-success{
+.non-success {
     display: flex;
     align-items: center;
     margin: 130px 264px;
 }
-.non-success-heading-and-description{
+
+.non-success-heading-and-description {
     margin-top: 87px;
     margin-left: 87px;
 }
 
-.non-success-heading{
+.non-success-heading {
     color: #151414;
     font-size: 40px;
     font-weight: 700;
     line-height: 47px;
     margin-bottom: 24px;
 }
-.non-success-description{
+
+.non-success-description {
     color: #444343;
     margin-bottom: 16px;
-    line-height:26px ;
+    line-height: 26px;
 }
-.non-success-points{
+
+.non-success-points {
     color: #444343;
     line-height: 26px;
+}
+
+/* my plans section style  */
+.plan-heading {
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+.plan-programs{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin: 0 200px;
+    text-align: center;
+}
+.plan-programs h3{
+    font-size: 30px;
+    margin: 16px 16px;
+}
+.plan-programs h4{
+    color: #444343;
+    font-size: 20px;
 }
