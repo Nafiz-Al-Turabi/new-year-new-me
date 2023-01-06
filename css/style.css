@@ -43,3 +43,30 @@ header {
     border: none;
 
 }
+/* non-success section styles */
+.non-success{
+    display: flex;
+    align-items: center;
+    margin: 130px 264px;
+}
+.non-success-heading-and-description{
+    margin-top: 87px;
+    margin-left: 87px;
+}
+
+.non-success-heading{
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 47px;
+    margin-bottom: 24px;
+}
+.non-success-description{
+    color: #444343;
+    margin-bottom: 16px;
+    line-height:26px ;
+}
+.non-success-points{
+    color: #444343;
+    line-height: 26px;
+}
