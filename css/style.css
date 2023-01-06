@@ -83,18 +83,45 @@ header {
     font-size: 30px;
     margin-bottom: 50px;
 }
-.plan-programs{
+
+.plan-programs {
     display: flex;
     justify-content: center;
     justify-content: space-evenly;
     margin: 0 200px;
     text-align: center;
 }
-.plan-programs h3{
+
+.plan-programs h3 {
     font-size: 30px;
     margin: 16px 16px;
 }
-.plan-programs h4{
+
+.plan-programs h4 {
     color: #444343;
     font-size: 20px;
+}
+
+/* mid advice banner  */
+.mid-advice-banner {
+    background-image: linear-gradient(to left, rgba(133, 192, 255, 0), rgba(0, 79, 188, 0.868)), url("/images/watch.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 75%;
+    height: 300px;
+    margin-left: 220px;
+    margin-top: 130px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+}
+
+.advice-heading-and-call {
+    padding: 59px 617px 59px 64px;
+}
+
+.advice-heading {
+    color: #fff;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
 }
