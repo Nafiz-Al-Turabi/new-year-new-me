@@ -1,4 +1,45 @@
-*{
+* {
     margin: 0;
     padding: 0;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+header {
+    background-image: url("/images/banner/banner3.png");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner {
+    text-align: right;
+    padding-top: 216px;
+    padding-right: 230px;
+    padding-left: 845px;
+}
+
+.banner-heading {
+    color: #fff;
+    font-size: 65px;
+    line-height: 76px;
+}
+
+.banner-description {
+    color: #fff;
+    line-height: 26px;
+}
+.banner-btn{
+    color: #005FAC;
+    font-size: 20px;
+    font-weight: 600px;
+    width: 165px;
+    height: 64px;
+    margin-top: 32px;
+    padding: 20px 26px;
+    border-radius: 5px;
+    border: none;
+
 }
