@@ -113,7 +113,8 @@ header {
 
 /* mid advice banner  */
 .mid-advice-banner {
-    background-image: linear-gradient(to left, rgba(133, 192, 255, 0), rgba(0, 79, 188, 0.868)), url("/images/watch.png");
+    background-image: linear-gradient(to left, rgba(133, 192, 255, 0),
+     rgba(0, 79, 188, 0.868)), url("/images/watch.png");
     background-repeat: no-repeat;
     background-position: center;
     width: 75%;
