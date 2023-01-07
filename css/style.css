@@ -77,6 +77,12 @@ header {
     color: #444343;
     line-height: 26px;
 }
+.fa-check{
+    color: #04d458;
+    margin-right: 5px;
+    font-size: 20px;
+    margin-top: 10px;
+}
 
 /* my plans section style  */
 .plan-heading {
